@@ -1,0 +1,4 @@
+site_name: ndra.dev
+site_description: A collection of dagroppe's thoughts and ideas on the practice of building software.
+theme:
+  name: material
