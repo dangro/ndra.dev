@@ -1,3 +1,9 @@
+---
+title: Technical Investments
+layout: post
+date: 2024-1-04
+---
+
 # Technical Investments
 
 Our typical day-to-day work as engineers falls into projects, and almost all such projects start with a product goal that tends to be time-sensitive. As a result, we discover cases where we would benefit from a technical improvement to our system while attempting to move quickly to build a user-facing feature. 
