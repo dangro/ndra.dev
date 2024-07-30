@@ -7,8 +7,6 @@ author: Daniel
 tags:
     - password manager
 ---
-# Exploring credentials in my password manager
-
 ## My history with password managers
 I've used password managers since 2014, starting with LastPass for a year before switching to Dashlane in 2015. Initially, I was a happy Dashlane user, appreciating its many great features. However, over time, I noticed product quality issues, particularly inconsistencies in the Password Health feature.
 
