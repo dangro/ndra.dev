@@ -8,16 +8,16 @@ tags:
     - password manager
 ---
 ## My history with password managers
-I've used password managers since 2014, starting with LastPass for a year before switching to Dashlane in 2015. Initially, I was a happy Dashlane user, appreciating its many great features. However, over time, I noticed product quality issues, particularly inconsistencies in the Password Health feature.
+I've used password managers since 2014, from LastPass and Dashlane to the Chrome password manager and macOS' Keychain. I'm generally a happy password manager user, appreciating the many great features and convenience. However, over time, as I notice product quality issues, I begin to worry.
 
-The Password Health feature provides a high-level view of the state of the passwords stored. It highlights aspects that can be improved, such as password strength, password reuse, compromised passwords, and the use of multi-factor authentication.
-The list of reused or weak passwords was inconsistent, regardless of whether I used the Android, iOS, or browser apps. In one instance, the Android app alerted me of a password that I allegedly reused tens of times, and, in a different case, the list of weak passwords contained passwords that were not weak at all.
+One of my favorite features of password managers provides a high-level view of the state of the passwords stored. It highlights aspects that can be improved, such as password strength, password reuse, compromised passwords, and the use of multi-factor authentication.
+Recently, the list of reused or weak passwords showed inconsistent results, regardless of whether I used the Android, iOS, or browser apps. In one instance, the Android app alerted me of a password that I allegedly reused tens of times, and, in a different case, the list of weak passwords contained passwords that were not weak at all.
 
 I contacted support with the issues. An excerpt of their response:
 
 > "This issue has been reported internally. While I can assure you that this is on our road-map, I'm afraid I do not yet have an accurate ETA to communicate. Please bear with us as we do our best to address your issue in a timely fashion."
 
-I appreciate the response, but I expect more than an acknowledgment of the issue to maintain my confidence in Dashlane. A password manager has sensitive information, and confidence and trust are essential. Within a week, I canceled my family subscription, which was up for renewal in February, and signed up for 1Password.
+I appreciate the response, but I expect more than an acknowledgment of the issue to maintain my confidence in the product. A password manager has sensitive information, and confidence and trust are essential. Within a week, I canceled my family subscription, which was up for renewal in February, and signed up for 1Password.
 
 ## Reasons to use a password manager
 When I started using password managers the premise was simple: use a strong and unique password for each service and store it in the password manager so you don’t have to remember it. It took me a while to fully trust the vendor I had chosen (LastPass). For a few months, I used it to store credentials for trivial things and once I was convinced, I used it for everything.
