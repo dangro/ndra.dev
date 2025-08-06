@@ -1,6 +1,6 @@
 title: "daniel andrade"
 baseurl: ""
 url: "https://ndra.dev"
-remote_theme: pages-themes/tactile@v0.2.0
+remote_theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-remote-theme
