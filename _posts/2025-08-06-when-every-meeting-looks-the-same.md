@@ -1,4 +1,3 @@
-
 ---
 title:  When every meeting looks the same
 layout: post
